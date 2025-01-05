@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mgb.DanceGroove.Api", "src\Mgb.DanceGroove.Api\Mgb.DanceGroove.Api.csproj", "{6D9689CF-6799-4C90-89E3-3B8D3C35E90E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mgb.DanceGroove.Core", "src\Mgb.DanceGroove.Core\Mgb.DanceGroove.Core.csproj", "{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mgb.DanceGroove.Data", "src\Mgb.DanceGroove.Data\Mgb.DanceGroove.Data.csproj", "{B7DFB85F-998D-48BB-B8FA-E372A7060C58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mgb.DanceGroove.Api.Tests", "tests\Mgb.DanceGroove.Api.Tests\Mgb.DanceGroove.Api.Tests.csproj", "{5039CC3B-D1A8-475E-89F3-791AEE0B323A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mgb.DanceGroove.Core.Tests", "tests\Mgb.DanceGroove.Core.Tests\Mgb.DanceGroove.Core.Tests.csproj", "{7787C327-53F4-49CF-905F-132CEDD0F0C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mgb.DanceGroove.Data.Tests", "tests\Mgb.DanceGroove.Data.Tests\Mgb.DanceGroove.Data.Tests.csproj", "{692EF783-D114-434F-BE91-0BA9BA725687}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EE7FB87B-3ADA-4FBB-8D16-C098EF18EE44}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{51B33AAB-0486-4DC7-9A35-60D1695673E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D9689CF-6799-4C90-89E3-3B8D3C35E90E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D9689CF-6799-4C90-89E3-3B8D3C35E90E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D9689CF-6799-4C90-89E3-3B8D3C35E90E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D9689CF-6799-4C90-89E3-3B8D3C35E90E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7DFB85F-998D-48BB-B8FA-E372A7060C58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7DFB85F-998D-48BB-B8FA-E372A7060C58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7DFB85F-998D-48BB-B8FA-E372A7060C58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7DFB85F-998D-48BB-B8FA-E372A7060C58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5039CC3B-D1A8-475E-89F3-791AEE0B323A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5039CC3B-D1A8-475E-89F3-791AEE0B323A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5039CC3B-D1A8-475E-89F3-791AEE0B323A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5039CC3B-D1A8-475E-89F3-791AEE0B323A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7787C327-53F4-49CF-905F-132CEDD0F0C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7787C327-53F4-49CF-905F-132CEDD0F0C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7787C327-53F4-49CF-905F-132CEDD0F0C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7787C327-53F4-49CF-905F-132CEDD0F0C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{692EF783-D114-434F-BE91-0BA9BA725687}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{692EF783-D114-434F-BE91-0BA9BA725687}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{692EF783-D114-434F-BE91-0BA9BA725687}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{692EF783-D114-434F-BE91-0BA9BA725687}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6D9689CF-6799-4C90-89E3-3B8D3C35E90E} = {EE7FB87B-3ADA-4FBB-8D16-C098EF18EE44}
+		{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0} = {EE7FB87B-3ADA-4FBB-8D16-C098EF18EE44}
+		{B7DFB85F-998D-48BB-B8FA-E372A7060C58} = {EE7FB87B-3ADA-4FBB-8D16-C098EF18EE44}
+		{5039CC3B-D1A8-475E-89F3-791AEE0B323A} = {51B33AAB-0486-4DC7-9A35-60D1695673E1}
+		{7787C327-53F4-49CF-905F-132CEDD0F0C5} = {51B33AAB-0486-4DC7-9A35-60D1695673E1}
+		{692EF783-D114-434F-BE91-0BA9BA725687} = {51B33AAB-0486-4DC7-9A35-60D1695673E1}
+	EndGlobalSection
+EndGlobal
