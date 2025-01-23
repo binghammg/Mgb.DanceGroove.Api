@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\Mgb.DanceGroove.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D9689CF-6799-4C90-89E3-3B8D3C35E90E}|src\\Mgb.DanceGroove.Api\\Mgb.DanceGroove.Api.csproj|c:\\dev\\mgb.dancegroove.api\\src\\mgb.dancegroove.api\\controllers\\evaluationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9689CF-6799-4C90-89E3-3B8D3C35E90E}|src\\Mgb.DanceGroove.Api\\Mgb.DanceGroove.Api.csproj|solutionrelative:src\\mgb.dancegroove.api\\controllers\\evaluationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0}|src\\Mgb.DanceGroove.Core\\Mgb.DanceGroove.Core.csproj|c:\\dev\\mgb.dancegroove.api\\src\\mgb.dancegroove.core\\managers\\evaluationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0}|src\\Mgb.DanceGroove.Core\\Mgb.DanceGroove.Core.csproj|solutionrelative:src\\mgb.dancegroove.core\\managers\\evaluationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0}|src\\Mgb.DanceGroove.Core\\Mgb.DanceGroove.Core.csproj|c:\\dev\\mgb.dancegroove.api\\src\\mgb.dancegroove.core\\managers\\ievaluationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0}|src\\Mgb.DanceGroove.Core\\Mgb.DanceGroove.Core.csproj|solutionrelative:src\\mgb.dancegroove.core\\managers\\ievaluationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0}|src\\Mgb.DanceGroove.Core\\Mgb.DanceGroove.Core.csproj|c:\\dev\\mgb.dancegroove.api\\src\\mgb.dancegroove.core\\models\\responses\\createevaluationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0}|src\\Mgb.DanceGroove.Core\\Mgb.DanceGroove.Core.csproj|solutionrelative:src\\mgb.dancegroove.core\\models\\responses\\createevaluationsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0}|src\\Mgb.DanceGroove.Core\\Mgb.DanceGroove.Core.csproj|c:\\dev\\mgb.dancegroove.api\\src\\mgb.dancegroove.core\\models\\requests\\createevaluationsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FCDE077-F385-4F2E-9D0A-FC1334F8A1E0}|src\\Mgb.DanceGroove.Core\\Mgb.DanceGroove.Core.csproj|solutionrelative:src\\mgb.dancegroove.core\\models\\requests\\createevaluationsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DFB85F-998D-48BB-B8FA-E372A7060C58}|src\\Mgb.DanceGroove.Data\\Mgb.DanceGroove.Data.csproj|c:\\dev\\mgb.dancegroove.api\\src\\mgb.dancegroove.data\\repositories\\filesystemrepository\\filesystemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DFB85F-998D-48BB-B8FA-E372A7060C58}|src\\Mgb.DanceGroove.Data\\Mgb.DanceGroove.Data.csproj|solutionrelative:src\\mgb.dancegroove.data\\repositories\\filesystemrepository\\filesystemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateEvaluationsRequest.cs",
+              "DocumentMoniker": "C:\\dev\\Mgb.DanceGroove.Api\\src\\Mgb.DanceGroove.Core\\Models\\Requests\\CreateEvaluationsRequest.cs",
+              "RelativeDocumentMoniker": "src\\Mgb.DanceGroove.Core\\Models\\Requests\\CreateEvaluationsRequest.cs",
+              "ToolTip": "C:\\dev\\Mgb.DanceGroove.Api\\src\\Mgb.DanceGroove.Core\\Models\\Requests\\CreateEvaluationsRequest.cs",
+              "RelativeToolTip": "src\\Mgb.DanceGroove.Core\\Models\\Requests\\CreateEvaluationsRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T02:44:42.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileSystemRepository.cs",
+              "DocumentMoniker": "C:\\dev\\Mgb.DanceGroove.Api\\src\\Mgb.DanceGroove.Data\\Repositories\\FileSystemRepository\\FileSystemRepository.cs",
+              "RelativeDocumentMoniker": "src\\Mgb.DanceGroove.Data\\Repositories\\FileSystemRepository\\FileSystemRepository.cs",
+              "ToolTip": "C:\\dev\\Mgb.DanceGroove.Api\\src\\Mgb.DanceGroove.Data\\Repositories\\FileSystemRepository\\FileSystemRepository.cs",
+              "RelativeToolTip": "src\\Mgb.DanceGroove.Data\\Repositories\\FileSystemRepository\\FileSystemRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T03:20:41.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEvaluationManager.cs",
+              "DocumentMoniker": "C:\\dev\\Mgb.DanceGroove.Api\\src\\Mgb.DanceGroove.Core\\Managers\\IEvaluationManager.cs",
+              "RelativeDocumentMoniker": "src\\Mgb.DanceGroove.Core\\Managers\\IEvaluationManager.cs",
+              "ToolTip": "C:\\dev\\Mgb.DanceGroove.Api\\src\\Mgb.DanceGroove.Core\\Managers\\IEvaluationManager.cs",
+              "RelativeToolTip": "src\\Mgb.DanceGroove.Core\\Managers\\IEvaluationManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T03:17:06.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvaluationManager.cs",
+              "DocumentMoniker": "C:\\dev\\Mgb.DanceGroove.Api\\src\\Mgb.DanceGroove.Core\\Managers\\EvaluationManager.cs",
+              "RelativeDocumentMoniker": "src\\Mgb.DanceGroove.Core\\Managers\\EvaluationManager.cs",
+              "ToolTip": "C:\\dev\\Mgb.DanceGroove.Api\\src\\Mgb.DanceGroove.Core\\Managers\\EvaluationManager.cs",
+              "RelativeToolTip": "src\\Mgb.DanceGroove.Core\\Managers\\EvaluationManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T03:15:44.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateEvaluationsResponse.cs",
+              "DocumentMoniker": "C:\\dev\\Mgb.DanceGroove.Api\\src\\Mgb.DanceGroove.Core\\Models\\Responses\\CreateEvaluationsResponse.cs",
+              "RelativeDocumentMoniker": "src\\Mgb.DanceGroove.Core\\Models\\Responses\\CreateEvaluationsResponse.cs",
+              "ToolTip": "C:\\dev\\Mgb.DanceGroove.Api\\src\\Mgb.DanceGroove.Core\\Models\\Responses\\CreateEvaluationsResponse.cs",
+              "RelativeToolTip": "src\\Mgb.DanceGroove.Core\\Models\\Responses\\CreateEvaluationsResponse.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T02:53:22.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EvaluationController.cs",
+              "DocumentMoniker": "C:\\dev\\Mgb.DanceGroove.Api\\src\\Mgb.DanceGroove.Api\\Controllers\\EvaluationController.cs",
+              "RelativeDocumentMoniker": "src\\Mgb.DanceGroove.Api\\Controllers\\EvaluationController.cs",
+              "ToolTip": "C:\\dev\\Mgb.DanceGroove.Api\\src\\Mgb.DanceGroove.Api\\Controllers\\EvaluationController.cs",
+              "RelativeToolTip": "src\\Mgb.DanceGroove.Api\\Controllers\\EvaluationController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvycAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T02:41:19.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
