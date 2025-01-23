@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Mgb.DanceGroove.Core\Mgb.DanceGroove.Core.csproj" />
+  </ItemGroup>
+
 </Project>
